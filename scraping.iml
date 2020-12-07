@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RUBY_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="jdk" jdkName="ruby-2.7.2-p137" jdkType="RUBY_SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="PROVIDED" name="activesupport (v6.0.3.4, ruby-2.7.2-p137) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="addressable (v2.7.0, ruby-2.7.2-p137) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="capybara (v3.34.0, ruby-2.7.2-p137) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="capybara-mechanize (v1.11.0, ruby-2.7.2-p137) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="childprocess (v3.0.0, ruby-2.7.2-p137) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="chronic (v0.10.2, ruby-2.7.2-p137) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="cliver (v0.3.2, ruby-2.7.2-p137) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="coderay (v1.1.3, ruby-2.7.2-p137) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="concurrent-ruby (v1.1.7, ruby-2.7.2-p137) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="connection_pool (v2.2.3, ruby-2.7.2-p137) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="domain_name (v0.5.20190701, ruby-2.7.2-p137) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="headless (v2.3.1, ruby-2.7.2-p137) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="http-cookie (v1.0.3, ruby-2.7.2-p137) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="i18n (v1.8.5, ruby-2.7.2-p137) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="kimurai (v1.4.0, ruby-2.7.2-p137) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="mechanize (v2.7.6, ruby-2.7.2-p137) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="method_source (v1.0.0, ruby-2.7.2-p137) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="mime-types (v3.3.1, ruby-2.7.2-p137) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="mime-types-data (v3.2020.1104, ruby-2.7.2-p137) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="mini_mime (v1.0.2, ruby-2.7.2-p137) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="mini_portile2 (v2.4.0, ruby-2.7.2-p137) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="minitest (v5.14.2, ruby-2.7.2-p137) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="murmurhash3 (v0.1.6, ruby-2.7.2-p137) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="net-http-digest_auth (v1.4.1, ruby-2.7.2-p137) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="net-http-persistent (v4.0.0, ruby-2.7.2-p137) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="nokogiri (v1.10.10, ruby-2.7.2-p137) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="ntlm-http (v0.1.1, ruby-2.7.2-p137) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="pmap (v1.1.1, ruby-2.7.2-p137) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="poltergeist (v1.18.1, ruby-2.7.2-p137) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="pry (v0.13.1, ruby-2.7.2-p137) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="public_suffix (v4.0.6, ruby-2.7.2-p137) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rack (v2.2.3, ruby-2.7.2-p137) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rack-test (v1.1.0, ruby-2.7.2-p137) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rbcat (v0.2.1, ruby-2.7.2-p137) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="regexp_parser (v1.8.2, ruby-2.7.2-p137) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rubyzip (v2.3.0, ruby-2.7.2-p137) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="selenium-webdriver (v3.142.7, ruby-2.7.2-p137) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="thor (v1.0.1, ruby-2.7.2-p137) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="thread_safe (v0.3.6, ruby-2.7.2-p137) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="tzinfo (v1.2.8, ruby-2.7.2-p137) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="unf (v0.1.4, ruby-2.7.2-p137) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="unf_ext (v0.0.7.7, ruby-2.7.2-p137) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="webrobots (v0.1.2, ruby-2.7.2-p137) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="websocket-driver (v0.7.3, ruby-2.7.2-p137) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="websocket-extensions (v0.1.5, ruby-2.7.2-p137) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="whenever (v1.0.0, ruby-2.7.2-p137) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="xpath (v3.2.0, ruby-2.7.2-p137) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="zeitwerk (v2.4.2, ruby-2.7.2-p137) [gem]" level="application" />
+  </component>
+</module>
